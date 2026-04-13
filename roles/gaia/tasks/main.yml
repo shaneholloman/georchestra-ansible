@@ -5,6 +5,7 @@
     name:
       - python3-flask-bootstrap
       - python3-flask
+      - python3-gdal
       - python3-celery
       - python3-sqlalchemy
       - python3-psycopg2
